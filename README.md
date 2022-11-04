@@ -17,5 +17,5 @@ It has a home view that contains my brief details a link to about me view and co
 
 - [page_transition](https://pub.dev/packages/page_transition) - used for animated navigation
 
-## Life testing 
+## Live testing 
 [Link to appetize](https://appetize.io/app/prjch7nriu4u4ishf4k72rlcay?device=pixel4&osVersion=11.0&scale=75)
