@@ -3,7 +3,6 @@ description: This is the mobile version of my resume app.
 
 publish_to: 'none' 
 
-
 version: 1.0.0+1
 
 environment:
@@ -32,7 +31,6 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^2.0.0
-
 
 flutter:
   uses-material-design: true
